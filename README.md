@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# Amazon Clone
+ * Amazing project built with the team of cleverprogrammer over a 3 day weekend. We spent 8-9 hours each day learning and writing code.
+
+ ## Technologies
+ * React.js
+ * Javascript
+ * HTML/CSS
+ * Google Firebase
+
+## Screen Shots
+* Home
+
+![Home](images/amzn-clone-home.png)
+
+* Products
+
+![Products](images/clone-products.png)
+
+* Shopping
+
+![Shopping](images/shopping-cart.png)
+
+# Getting Started with Amazon Clone React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
